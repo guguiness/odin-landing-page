@@ -7,6 +7,10 @@
     font-family: 'Space Grotesk', sans-serif;
 }
 
+body {
+    padding: 0 15%;
+}
+
 header {
     display: flex;
     justify-content: space-between;
