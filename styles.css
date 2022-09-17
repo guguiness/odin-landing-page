@@ -17,6 +17,12 @@ header {
     align-items: center;
 }
 
+.company {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
 .logo {
     height: auto;
     width: 54px;
