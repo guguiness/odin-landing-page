@@ -27,3 +27,8 @@ header {
     height: auto;
     width: 54px;
 }
+
+.name {
+    font-size: 32px;
+    font-weight: bold;
+}
