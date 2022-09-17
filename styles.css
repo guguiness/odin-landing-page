@@ -50,3 +50,8 @@ li a {
     justify-content: space-between;
     align-items: center;
 }
+
+.hero-img {
+    height: auto;
+    width: 50%;
+}
