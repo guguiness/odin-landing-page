@@ -97,3 +97,8 @@ button {
     justify-content: center;
     align-items: center;
 }
+
+.card-image {
+    height: auto;
+    width: 96px;
+}
