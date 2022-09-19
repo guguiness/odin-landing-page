@@ -44,7 +44,7 @@ li a {
 
 .hero {
     background-color: #1F2937;
-    padding: 50px 15%;
+    padding: 70px 15% 100px;
     display: flex;
     justify-content: space-between;
     align-items: stretch;
