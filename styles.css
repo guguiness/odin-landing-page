@@ -73,15 +73,16 @@ li a {
 
 button {
     border-radius: 6px;
-    height: 30px;
+    height: 35px;
     width: 100px;
     padding: 4px;
-}
-
-.hero-button {
     background-color: #3882F6;
     color: #F9FAF8;
     font-weight: bold;
+    font-size: 16px;
+}
+
+.hero-button {
     border: none;
 }
 
@@ -148,4 +149,36 @@ h2 {
 .citation-author {
     font-size: 24px;
     font-weight: bold;
+}
+
+.signup {
+    padding: 100px 15%;
+}
+
+.signup-banner {
+    background-color: #3882F6;
+    padding: 40px 80px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.signup-msg {
+    margin-left: 80px;
+}
+
+.signup-title {
+    color: #F9FAF8;
+    font-size: 32px;
+}
+
+.signup-text {
+    color: #E5E7EB;
+    font-size: 18px;
+    margin-top: 4px;
+}
+.signup-btn {
+    margin-right: 80px;
+    border: #F9FAF8 solid 2px;
 }
