@@ -107,7 +107,7 @@ button:hover {
 }
 
 .services {
-    padding: 70px 15%;
+    padding: 100px 15% 120px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -152,7 +152,7 @@ h2 {
 
 .citation {
     background-color: #E5E7EB;
-    padding: 80px 15%;
+    padding: 100px 15%;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
