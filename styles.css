@@ -22,7 +22,7 @@ header, footer {
 .company, ul {
     display: flex;
     align-items: center;
-    gap: 16px;
+    gap: 24px;
 }
 
 .logo {
@@ -44,6 +44,10 @@ ul {
 li a {
     text-decoration: none;
     color: #E5E7EB;
+}
+
+li a:hover {
+    color: #F1D302;
 }
 
 .hero {
